@@ -11,7 +11,7 @@ export default function Pokemon() {
             </Head>
 
             <main>
-                <Header title="Altra pagina!" />
+                <Header title="Altra pagina con Elmirina!" />
                 <p className="description">
                     Get started by editing <code>pages/index.js</code>
                 </p>
